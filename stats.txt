@@ -1,0 +1,8 @@
+
+0 Question 'what do you think'
+Answer: 'no'
+Created on: 2013-11-20
+
+0 Question 'how to think like a pro ruby programmer'
+Answer: 'practice, practice, participate in study groups'
+Created on: 2013-11-20
