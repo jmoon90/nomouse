@@ -2,7 +2,7 @@
 
 ##About 
 
-NoMouse is a plugin script for your terminal. It allows you to not leave the terminal and directly ask google a question and it will search the result in your default browser in goolge for you. If you would like to learn how I came up with this idea check out my [blog](jmoon90.github.io)
+NoMouse is a plugin script for your terminal. It allows you to not leave the terminal and directly ask google a question and it will search the result in your default browser in goolge for you. If you would like to learn how I came up with this idea check out my [blog](http://jmoon90.github.io).
 
 It also inputs the question you asked to a separate file to keep track of how you form questions. By looking at how you evolved in asking technical questions it can be a rough estimate of how much you improved as a programmer. 
 
@@ -14,6 +14,10 @@ I recommend you creating an alias for the script. I'm currently using zsh so I h
 >alias google="ruby ~/Dropbox/LA/nomouse/browser.rb"  
 
 This allows me to type 'google' the terminal will know to run the script. 
+
+### To Do
+
+-Search in StackOverFlow alongside google
 
 
 ##Recommendations
