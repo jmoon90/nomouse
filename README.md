@@ -18,7 +18,10 @@ This allows me to type 'google' the terminal will know to run the script.
 ### To Do
 
 -Search in StackOverFlow alongside google (DONE) 
+-Find applications and files on your computer (Priority) 
+-Search any website (Next in line)   
 -Reporting to see how many times we searched for a word? E.G (Ruby, Rails, JSON, etc)
+
 
 
 ##Recommendations
