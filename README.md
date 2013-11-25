@@ -29,6 +29,6 @@ This allows me to type 'google' the terminal will know to run the script.
 Contact me if you have any recommendations to improve this script or want to see a feature added.
 Twitter - @johnmoon6
 
-#License
+##License
 
 nomouse is released under the [MIT License](https://github.com/jmoon90/nomouse/blob/master/license.md). Attriution is appreciated, but not required.
