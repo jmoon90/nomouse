@@ -30,4 +30,4 @@ Contact me if you have any recommendations to improve this script or want to see
 Twitter - @johnmoon6
 
 License
-nomouse is releasedunder the [MIT License](). Attriution is appreciated, but not required.
+nomouse is releasedunder the [MIT License](https://github.com/jmoon90/nomouse/blob/master/license.md). Attriution is appreciated, but not required.
