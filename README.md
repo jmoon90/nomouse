@@ -28,3 +28,6 @@ This allows me to type 'google' the terminal will know to run the script.
 
 Contact me if you have any recommendations to improve this script or want to see a feature added.
 Twitter - @johnmoon6
+
+License
+nomouse is releasedunder the [MIT License](). Attriution is appreciated, but not required.
